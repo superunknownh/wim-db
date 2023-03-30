@@ -1626,5 +1626,35 @@
     "offices": [],
     "name": "Capilla de la Transfiguración",
     "id": "445047c9-fd87-440e-a5fe-c25c571cb279"
+  },
+  {
+    "contact": {
+      "address": "Colinas de la Santa Cruz",
+      "webSite": "",
+      "location": {
+        "x": 20.6198813,
+        "y": -100.4548244
+      },
+      "phone": "",
+      "email": ""
+    },
+    "alias": "Montaña",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 700,
+        "to": 800,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "WEDNESDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "Colinas de la Santa Cruz",
+    "id": "550f103d-40c6-4f92-8c4b-b90add2377d0"
   }
 ]
