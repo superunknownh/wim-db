@@ -1541,5 +1541,65 @@
     "offices": [],
     "name": "Parroquia Divina Providencia",
     "id": "2dbe6c83-7d79-4fc6-90e9-e6fb9a3e1b60"
+  },
+  {
+    "contact": {
+      "address": "Av. Begonias 1572, Fundadores",
+      "webSite": "",
+      "location": {
+        "x": 20.6284902,
+        "y": -100.4546209
+      },
+      "phone": "",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1100,
+        "to": 1200,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1930,
+        "to": 2030,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "MONDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "SATURDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "Capilla San Charbel",
+    "id": "6c0e9050-4437-47a4-943d-7fcf068ad1d5"
   }
 ]
