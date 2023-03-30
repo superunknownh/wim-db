@@ -1,0 +1,1454 @@
+[
+  {
+    "contact": {
+      "address": "Ópalo s/n, San Roque",
+      "webSite": "",
+      "location": {
+        "x": 20.6062108,
+        "y": -100.4046603
+      },
+      "phone": "+524422172936",
+      "email": ""
+    },
+    "alias": "El terreno",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 930,
+        "to": 1030,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "SATURDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "Parroquia de la Resurrección del Señor",
+    "id": "01a58818-416b-4e6a-ad2e-4032a5fc5eb9"
+  },
+  {
+    "contact": {
+      "address": "Corregidora s/n, Arboledas del Parque",
+      "webSite": "",
+      "location": {
+        "x": 20.6086236,
+        "y": -100.4053231
+      },
+      "phone": "442 246 2397",
+      "email": "parroquiamariapuertadelcielo@hotmail.com"
+    },
+    "alias": "Las madres",
+    "favorite": true,
+    "masses": [
+      {
+        "from": 800,
+        "to": 900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 930,
+        "to": 1030,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1100,
+        "to": 1200,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1230,
+        "to": 1330,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1400,
+        "to": 1500,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1930,
+        "to": 2030,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 2100,
+        "to": 2130,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "MONDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "SATURDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "SATURDAY"
+      }
+    ],
+    "confessions": [
+      {
+        "from": 800,
+        "to": 900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 930,
+        "to": 1030,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1100,
+        "to": 1200,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1230,
+        "to": 1330,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1400,
+        "to": 1500,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1930,
+        "to": 2030,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 2100,
+        "to": 2200,
+        "day": "SUNDAY"
+      }
+    ],
+    "offices": [
+      {
+        "from": 1000,
+        "to": 1400,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1900,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1000,
+        "to": 1400,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1900,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1000,
+        "to": 1400,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1900,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1000,
+        "to": 1400,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1900,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1000,
+        "to": 1400,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1900,
+        "day": "FRIDAY"
+      }
+    ],
+    "name": "Santísima Trinidad",
+    "id": "92c57629-b594-4637-96c2-f4de94313d12"
+  },
+  {
+    "contact": {
+      "address": "Av. San Roque 35, El Tepetate",
+      "webSite": "",
+      "location": {
+        "x": 20.6037646,
+        "y": -100.3986878
+      },
+      "phone": "+524422172936",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 800,
+        "to": 900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1100,
+        "to": 1200,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 2000,
+        "to": 2100,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 730,
+        "to": 830,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 730,
+        "to": 830,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 730,
+        "to": 830,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 730,
+        "to": 830,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "SATURDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "Templo de San Roque",
+    "id": "4af18f43-e6e9-4b1a-94d8-9c88f7fcb49d"
+  },
+  {
+    "contact": {
+      "address": "Ejido 22, San Gregorio",
+      "webSite": "",
+      "location": {
+        "x": 20.6052471,
+        "y": -100.4073946
+      },
+      "phone": "+524422837700",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 1330,
+        "to": 1430,
+        "day": "SUNDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "Capilla de San Gregorio Magno",
+    "id": "db09de6a-2934-4343-82bf-c11e2b0b0e55"
+  },
+  {
+    "contact": {
+      "address": "Av. Industrialización 11, Alamos 2a Sección",
+      "webSite": "http://www.parroquiadealamos.org",
+      "location": {
+        "x": 20.6058709,
+        "y": -100.3851539
+      },
+      "phone": "+524422452823",
+      "email": ""
+    },
+    "alias": "Álamos",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 730,
+        "to": 830,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1030,
+        "to": 1130,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1330,
+        "to": 1430,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1730,
+        "to": 1830,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "MONDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "SATURDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [
+      {
+        "from": 1000,
+        "to": 1300,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1000,
+        "to": 1300,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1900,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1000,
+        "to": 1300,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1900,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1000,
+        "to": 1300,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1900,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1000,
+        "to": 1300,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1900,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1900,
+        "day": "SATURDAY"
+      }
+    ],
+    "name": "Parroquia de la Inmaculada Concepción de María",
+    "id": "2e78b519-c5b3-42ac-bebf-3992ebc92aae"
+  },
+  {
+    "contact": {
+      "address": "Independencia y Felipe Luna S/N, La Cruz",
+      "webSite": "http://templodelasantacruzqueretaro.com.mx/",
+      "location": {
+        "x": 20.6000423,
+        "y": -100.4059463
+      },
+      "phone": "442 212 0235",
+      "email": ""
+    },
+    "alias": "La Cruz",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 600,
+        "to": 700,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 700,
+        "to": 800,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1000,
+        "to": 1100,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1100,
+        "to": 0,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1300,
+        "to": 1400,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1400,
+        "to": 1500,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 2000,
+        "to": 2100,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 600,
+        "to": 700,
+        "day": "MONDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "MONDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "MONDAY"
+      },
+      {
+        "from": 2000,
+        "to": 2100,
+        "day": "MONDAY"
+      },
+      {
+        "from": 600,
+        "to": 700,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 2000,
+        "to": 2100,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 600,
+        "to": 700,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 2000,
+        "to": 2100,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 600,
+        "to": 700,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 2000,
+        "to": 2100,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 600,
+        "to": 700,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 2000,
+        "to": 2100,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 600,
+        "to": 700,
+        "day": "SATURDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "SATURDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "SATURDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "SATURDAY"
+      },
+      {
+        "from": 2000,
+        "to": 2100,
+        "day": "SATURDAY"
+      }
+    ],
+    "confessions": [
+      {
+        "from": 800,
+        "to": 900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1000,
+        "to": 1100,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1100,
+        "to": 0,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1300,
+        "to": 1400,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1400,
+        "to": 1500,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 2000,
+        "to": 2100,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "MONDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "FRIDAY"
+      }
+    ],
+    "offices": [
+      {
+        "from": 900,
+        "to": 1400,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1600,
+        "to": 1800,
+        "day": "MONDAY"
+      },
+      {
+        "from": 900,
+        "to": 1400,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1600,
+        "to": 1800,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 900,
+        "to": 1400,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1600,
+        "to": 1800,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 900,
+        "to": 1400,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1600,
+        "to": 1800,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 900,
+        "to": 1400,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1600,
+        "to": 1800,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 900,
+        "to": 1400,
+        "day": "SATURDAY"
+      },
+      {
+        "from": 1600,
+        "to": 1800,
+        "day": "SATURDAY"
+      }
+    ],
+    "name": "Templo y Convento de la Santa Cruz de los Milagros",
+    "id": "7fdf88f3-f500-4374-9fd7-fcd8a57655db"
+  },
+  {
+    "contact": {
+      "address": "C. Francisco I. Madero 36, Centro",
+      "webSite": "",
+      "location": {
+        "x": 20.5920958,
+        "y": -100.3957192
+      },
+      "phone": "+524422140800",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 1100,
+        "to": 0,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1300,
+        "to": 1400,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "SATURDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "SATURDAY"
+      }
+    ],
+    "confessions": [
+      {
+        "from": 1030,
+        "to": 1330,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1630,
+        "to": 1830,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1030,
+        "to": 1330,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1630,
+        "to": 1830,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1030,
+        "to": 1330,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1630,
+        "to": 1830,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1030,
+        "to": 1330,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1630,
+        "to": 1830,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1030,
+        "to": 1330,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1630,
+        "to": 1830,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1030,
+        "to": 1330,
+        "day": "SATURDAY"
+      },
+      {
+        "from": 1630,
+        "to": 1830,
+        "day": "SATURDAY"
+      }
+    ],
+    "offices": [],
+    "name": "Templo San José de Gracia",
+    "id": "719da10e-4a87-4464-a36f-ba15b70c5481"
+  },
+  {
+    "contact": {
+      "address": "De Tabaqueros 303, Carretas",
+      "webSite": "https://www.facebook.com/perpetuosocorrocarreatas",
+      "location": {
+        "x": 20.5932603,
+        "y": -100.3728506
+      },
+      "phone": "+524422135707",
+      "email": ""
+    },
+    "alias": "Carretas",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1030,
+        "to": 1130,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1330,
+        "to": 1430,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1930,
+        "to": 2030,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "MONDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "SATURDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "SATURDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "Parroquia de Nuestra Señora del Perpetuo Socorro",
+    "id": "4afd7d7b-e8a1-40a3-8ddb-d2af27e99df5"
+  },
+  {
+    "contact": {
+      "address": "",
+      "webSite": "",
+      "location": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "phone": "",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 700,
+        "to": 800,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1300,
+        "to": 1400,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 2000,
+        "to": 2100,
+        "day": "SUNDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "San Bartolo",
+    "id": "e5e57df3-c643-4c0a-bb69-6a4c8dd2fb45"
+  },
+  {
+    "contact": {
+      "address": "",
+      "webSite": "",
+      "location": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "phone": "",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 1000,
+        "to": 1100,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1130,
+        "to": 30,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1830,
+        "to": 1930,
+        "day": "SUNDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "El llanito",
+    "id": "384da442-cc0a-4bb0-b3f4-a5e927c74e99"
+  },
+  {
+    "contact": {
+      "address": "",
+      "webSite": "",
+      "location": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "phone": "",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 600,
+        "to": 700,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1000,
+        "to": 1100,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "SUNDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "Los Ángeles",
+    "id": "29b9fbb6-dbc4-4aec-9227-061cb245159b"
+  },
+  {
+    "contact": {
+      "address": "Camino a los Olvera km 2-interior, Los Olvera",
+      "webSite": "http://www.schoenstatt.mx/",
+      "location": {
+        "x": 20.5333266,
+        "y": -100.4149429
+      },
+      "phone": "+524422281220",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 1000,
+        "to": 1100,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1230,
+        "to": 1330,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1230,
+        "to": 1330,
+        "day": "SATURDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "Santuario de Schoenstatt",
+    "id": "7f02080b-bdae-437a-877e-16ae9ad4ec05"
+  },
+  {
+    "contact": {
+      "address": "Topacio 62, Santa Catarina",
+      "webSite": "",
+      "location": {
+        "x": 20.6016495,
+        "y": -100.4094345
+      },
+      "phone": "",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "SUNDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "Capilla de Santa Catarina",
+    "id": "ddc1e8af-7fd6-474c-b068-0d47ef5d2982"
+  },
+  {
+    "contact": {
+      "address": "Granizo 104, El Rocío",
+      "webSite": "",
+      "location": {
+        "x": 20.6216129,
+        "y": -100.4482402
+      },
+      "phone": "",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 800,
+        "to": 900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1800,
+        "to": 1900,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 800,
+        "to": 900,
+        "day": "SATURDAY"
+      }
+    ],
+    "confessions": [
+      {
+        "from": 1100,
+        "to": 0,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1800,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1800,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1800,
+        "day": "FRIDAY"
+      }
+    ],
+    "offices": [],
+    "name": "Capilla de Nuestra Señora del Rocío",
+    "id": "98ae021f-de7d-489f-9a94-9c90e4c50e44"
+  }
+]

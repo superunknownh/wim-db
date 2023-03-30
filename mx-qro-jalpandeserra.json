@@ -1,0 +1,42 @@
+[
+  {
+    "contact": {
+      "address": "Jardín Principal S/N, Centro",
+      "webSite": "",
+      "location": {
+        "x": 21.217535630290676,
+        "y": -99.47411544602988
+      },
+      "phone": "4412960033",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 600,
+        "to": 700,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1200,
+        "to": 1300,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "SUNDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "Parroquia Santiago Apóstol",
+    "id": "61a7ff95-75d1-4130-94fb-275ff917638a"
+  }
+]
