@@ -1601,5 +1601,30 @@
     "offices": [],
     "name": "Capilla San Charbel",
     "id": "6c0e9050-4437-47a4-943d-7fcf068ad1d5"
+  },
+  {
+    "contact": {
+      "address": "Azucenas SN, Los Sauces",
+      "webSite": "",
+      "location": {
+        "x": 20.6300573,
+        "y": -100.4457548
+      },
+      "phone": "",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 1000,
+        "to": 1100,
+        "day": "SUNDAY"
+      }
+    ],
+    "confessions": [],
+    "offices": [],
+    "name": "Capilla de la Transfiguración",
+    "id": "445047c9-fd87-440e-a5fe-c25c571cb279"
   }
 ]
