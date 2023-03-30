@@ -1428,7 +1428,7 @@
     "confessions": [
       {
         "from": 1100,
-        "to": 0,
+        "to": 1200,
         "day": "SUNDAY"
       },
       {
@@ -1450,5 +1450,96 @@
     "offices": [],
     "name": "Capilla de Nuestra Señora del Rocío",
     "id": "98ae021f-de7d-489f-9a94-9c90e4c50e44"
+  },
+  {
+    "contact": {
+      "address": "Madrid, Manzana N 231",
+      "webSite": "https://www.divinaprovidenciaqro.org/",
+      "location": {
+        "x": 20.6261819,
+        "y": -100.4472556
+      },
+      "phone": "4422203229",
+      "email": ""
+    },
+    "alias": "",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 800,
+        "to": 900,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1215,
+        "to": 1315,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1830,
+        "to": 1930,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "MONDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 815,
+        "to": 915,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1900,
+        "to": 2000,
+        "day": "FRIDAY"
+      }
+    ],
+    "confessions": [
+      {
+        "from": 2000,
+        "to": 2100,
+        "day": "THURSDAY"
+      }
+    ],
+    "offices": [],
+    "name": "Parroquia Divina Providencia",
+    "id": "2dbe6c83-7d79-4fc6-90e9-e6fb9a3e1b60"
   }
 ]
