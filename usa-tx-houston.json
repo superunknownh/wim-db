@@ -1,0 +1,151 @@
+[
+  {
+    "contact": {
+      "address": "6921 Chetwood Dr",
+      "webSite": "https://holyghostchurch.net",
+      "location": {
+        "x": 29.7033601,
+        "y": -95.5598139
+      },
+      "phone": "+17136680463",
+      "email": "office@holyghostchurch.net"
+    },
+    "alias": "Espíritu Santo",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 815,
+        "to": 915,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1330,
+        "to": 1430,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1700,
+        "to": 1800,
+        "day": "SUNDAY"
+      }
+    ],
+    "confessions": [
+      {
+        "from": 1530,
+        "to": 1630,
+        "day": "SATURDAY"
+      }
+    ],
+    "offices": [
+      {
+        "from": 1300,
+        "to": 1900,
+        "day": "MONDAY"
+      },
+      {
+        "from": 900,
+        "to": 1200,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 1300,
+        "to": 1900,
+        "day": "TUESDAY"
+      },
+      {
+        "from": 900,
+        "to": 1200,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1300,
+        "to": 1900,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 900,
+        "to": 1200,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 1300,
+        "to": 1900,
+        "day": "THURSDAY"
+      },
+      {
+        "from": 900,
+        "to": 1200,
+        "day": "FRIDAY"
+      },
+      {
+        "from": 1300,
+        "to": 1900,
+        "day": "FRIDAY"
+      }
+    ],
+    "name": "Holy Ghost Church",
+    "id": "3a3735f3-eb9e-460b-ad27-e31bb7cfa3de"
+  },
+  {
+    "contact": {
+      "address": "5430 W. Ridgecreek Dr.",
+      "webSite": "https://stmarkshouston.org",
+      "location": {
+        "x": 29.5950853,
+        "y": -95.4650694
+      },
+      "phone": "+12814379114",
+      "email": "admin@stmarkshouston.org"
+    },
+    "alias": "San Marcos",
+    "favorite": false,
+    "masses": [
+      {
+        "from": 700,
+        "to": 800,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 900,
+        "to": 1000,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1300,
+        "to": 1400,
+        "day": "SUNDAY"
+      },
+      {
+        "from": 1830,
+        "to": 1930,
+        "day": "WEDNESDAY"
+      },
+      {
+        "from": 1830,
+        "to": 1930,
+        "day": "FRIDAY"
+      }
+    ],
+    "confessions": [
+      {
+        "from": 1600,
+        "to": 1730,
+        "day": "SATURDAY"
+      }
+    ],
+    "offices": [
+      {
+        "from": 900,
+        "to": 1200,
+        "day": "MONDAY"
+      },
+      {
+        "from": 1300,
+        "to": 1630,
+        "day": "MONDAY"
+      }
+    ],
+    "name": "St. Mark the Evangelist",
+    "id": "18eaefe7-d98c-4ce0-a830-4402e53ac6f5"
+  }
+]
