@@ -935,7 +935,7 @@
     "masses": [
       {
         "from": 1100,
-        "to": 0,
+        "to": 1200,
         "day": "SUNDAY"
       },
       {
@@ -1557,8 +1557,8 @@
     "favorite": false,
     "masses": [
       {
-        "from": 900,
-        "to": 1000,
+        "from": 800,
+        "to": 900,
         "day": "SUNDAY"
       },
       {
